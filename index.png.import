@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ci6usc8cu1bcw"
-path="res://.godot/imported/index.png-68b12f8119f7b9ca6ebcc601b738d4b5.ctex"
+path="res://.godot/imported/index.png-f37d5977ec6f45c4a7e246039afade09.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://d/index.png"
-dest_files=["res://.godot/imported/index.png-68b12f8119f7b9ca6ebcc601b738d4b5.ctex"]
+source_file="res://tobe-roboton/index.png"
+dest_files=["res://.godot/imported/index.png-f37d5977ec6f45c4a7e246039afade09.ctex"]
 
 [params]
 
